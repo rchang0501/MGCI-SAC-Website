@@ -1,5 +1,7 @@
 # MGCI-SAC-Website
-My work on the MGCI SAC Website. the site is private and cannot be accessed unless the user is part of the TDSB Google Cloud Suite. 
+My work on the MGCI SAC Website. The site is private and cannot be accessed unless the user is part of the TDSB Google Cloud Suite. 
+
+https://sites.google.com/tdsb.on.ca/mgcisac
 
 ![MGCI SAC Home Display](/gifs/SAC_Display.gif)
 
